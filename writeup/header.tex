@@ -1,0 +1,7 @@
+% Block quotes (the "In short" and key-point boxes) as a shaded bar on the left.
+\usepackage{framed}
+\usepackage{xcolor}
+\definecolor{shadecolor}{gray}{0.94}
+\renewenvironment{quote}{\begin{leftbar}}{\end{leftbar}}
+% Break long URLs at any character instead of running past the margin.
+\usepackage{xurl}
