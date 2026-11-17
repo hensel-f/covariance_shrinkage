@@ -8,4 +8,4 @@ on a different dataset. Nonlinear shrinkage comes next. I wrote the core impleme
 AI (Claude - Anthropic) served as a tutor, wrote the specifications, tests, data loaders and
 experiment scripts, and drafted much of the write-up, which I revised; I take responsibility for its claims.
 
-Full write-up: [PDF](build/WRITEUP.pdf), or [WRITEUP.md](WRITEUP.md) on GitHub.
+Full write-up: [PDF](build/WRITEUP.pdf), or [WRITEUP.md](WRITEUP.md).
